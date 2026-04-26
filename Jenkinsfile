@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "yourdockerhub/python-cicd"
+        IMAGE = "blaxmankumar/python-cicd"
     }
 
     stages {
